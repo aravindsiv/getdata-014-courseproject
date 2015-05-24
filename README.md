@@ -2,7 +2,7 @@
 Course Project for the Getting &amp; Cleaning Data Coursera course.
 
 ## Overview
-The script ```run_analsysis.R``` is used to obtain the tidy data. The ```run_analysis.R``` script can be run as long as the Samsung data is the working directory. The script requires the installation of the dplyr or the plyr package.  
+The script ```run_analsysis.R``` is used to obtain the tidy data. The ```run_analysis.R``` script can be run as long as the Samsung data is the working directory. The script requires the installation of the dplyr or the plyr package, as well as the reshape2 package.
 
 The ```run_analysis.R``` script performs the following functions:  
 
